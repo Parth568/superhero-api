@@ -22,7 +22,7 @@ function renderHero(hero) {
 
   showContainer.innerHTML = `<div class="card-container">
     <div class="container-character-image">
-      <img src="${hero.image}" alt="${hero.name}" />
+      <img src="/api/proxy-image?url=${encodeURIComponent(hero.image)}" alt="${hero.name}" />
     </div>
     <div class="character-name">${hero.name}</div>
     <div class="character-description">${description}</div>
