@@ -1,0 +1,18 @@
+{
+  "name": "superhero-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Superhero project — REST API on Cloudflare Pages Functions, backed by a static JSON",
+  "workspaces": [
+    "superhero-api"
+  ],
+  "scripts": {
+    "dev": "wrangler pages dev superhero-api --port 8788 --live-reload",
+    "build": "npm run build --workspace superhero-api",
+    "preview": "npm run build && wrangler pages dev superhero-api/dist --port 8788",
+    "deploy": "npm run build && wrangler pages deploy superhero-api/dist --project-name=superhero-app"
+  },
+  "devDependencies": {
+    "wrangler": "^4.87.0"
+  }
+}

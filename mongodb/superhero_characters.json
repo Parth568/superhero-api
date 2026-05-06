@@ -1,0 +1,603 @@
+{"characters" :[
+  {
+    "id": "1",
+    "name": "A-Bomb",
+    "description": "Full Name: Richard Milhouse Jones, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Abe Sapien",
+    "description": "Full Name: Abraham Sapien, Publisher: Dark Horse Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/956.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Abin Sur",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1460.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Abomination",
+    "description": "Full Name: Emil Blonsky, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Abraxas",
+    "description": "Full Name: Abraxas, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/181.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Absorbing Man",
+    "description": "Full Name: Carl Creel, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1448.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Adam Monroe",
+    "description": "Full Name: N/A, Publisher: NBC - Heroes",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1026.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Adam Strange",
+    "description": "Full Name: Adam Strange, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/626.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Agent 13",
+    "description": "Full Name: Sharon Carter, Publisher: Sharon Carter",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/167.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Agent Bob",
+    "description": "Full Name: Bob, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10255.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Agent Zero",
+    "description": "Full Name: Christoph Nord, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/396.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Air-Walker",
+    "description": "Full Name: Gabriel Lan, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1358.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Ajax",
+    "description": "Full Name: Francis, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10422.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Alan Scott",
+    "description": "Full Name: Alan Ladd Wellington Scott, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/698.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Alex Mercer",
+    "description": "Full Name: Alexander J. Mercer, Publisher: Wildstorm",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10398.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Alex Woolsly",
+    "description": "Full Name: Alex Woolsly, Publisher: NBC - Heroes",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1309.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Alfred Pennyworth",
+    "description": "Full Name: Alfred Thaddeus Crane Pennyworth, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/628.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Alien",
+    "description": "Full Name: Xenomorph, Publisher: Dark Horse Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10449.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Allan Quatermain",
+    "description": "Full Name: N/A, Publisher: Wildstorm",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/630.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Amazo",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1390.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Ammo",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/184.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Ando Masahashi",
+    "description": "Full Name: Ando Masahashi, Publisher: NBC - Heroes",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1310.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Angel",
+    "description": "Full Name: Liam, Publisher: Dark Horse Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10431.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Angel",
+    "description": "Full Name: Warren Kenneth Worthington III, Publisher: Archangel",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/829.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Angel Dust",
+    "description": "Full Name: Christina, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10405.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Angel Salvadore",
+    "description": "Full Name: Angel Salvadore Bohusk, Publisher: Tempest",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1406.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Angela",
+    "description": "Full Name: N/A, Publisher: Image Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1070.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Animal Man",
+    "description": "Full Name: Bernhard Baker, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/632.jpg"
+  },
+  {
+    "id": "29",
+    "name": "Annihilus",
+    "description": "Full Name: Annihilus, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1307.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Ant-Man",
+    "description": "Full Name: Hank Pym, Publisher: Giant-Man",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/857.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Ant-Man II",
+    "description": "Full Name: Scott Lang, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/166.jpg"
+  },
+  {
+    "id": "32",
+    "name": "Anti-Monitor",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1292.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Anti-Spawn",
+    "description": "Full Name: Jason Wynn, Publisher: Image Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1071.jpg"
+  },
+  {
+    "id": "34",
+    "name": "Anti-Venom",
+    "description": "Full Name: Eddie Brock, Publisher: Toxin",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1485.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Apocalypse",
+    "description": "Full Name: En Sabah Nur, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/852.jpg"
+  },
+  {
+    "id": "36",
+    "name": "Aquababy",
+    "description": "Full Name: Arthur Curry, Jr., Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1389.jpg"
+  },
+  {
+    "id": "37",
+    "name": "Aqualad",
+    "description": "Full Name: Garth, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1395.jpg"
+  },
+  {
+    "id": "38",
+    "name": "Aquaman",
+    "description": "Full Name: Orin, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/634.jpg"
+  },
+  {
+    "id": "39",
+    "name": "Arachne",
+    "description": "Full Name: Julia Carpenter, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/882.jpg"
+  },
+  {
+    "id": "40",
+    "name": "Archangel",
+    "description": "Full Name: Warren Kenneth Worthington III, Publisher: Angel",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/838.jpg"
+  },
+  {
+    "id": "41",
+    "name": "Arclight",
+    "description": "Full Name: Philippa Sontag, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/832.jpg"
+  },
+  {
+    "id": "42",
+    "name": "Ardina",
+    "description": "Full Name: Ardina, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10132.jpg"
+  },
+  {
+    "id": "43",
+    "name": "Ares",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1118.jpg"
+  },
+  {
+    "id": "44",
+    "name": "Ariel",
+    "description": "Full Name: Ariel, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1348.jpg"
+  },
+  {
+    "id": "45",
+    "name": "Armor",
+    "description": "Full Name: Hisako Ichiki, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1347.jpg"
+  },
+  {
+    "id": "46",
+    "name": "Arsenal",
+    "description": "Full Name: Roy William Harper, Jr., Publisher: Speedy",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1014.jpg"
+  },
+  {
+    "id": "47",
+    "name": "Astro Boy",
+    "description": "Full Name: Atom, Publisher: null",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1159.jpg"
+  },
+  {
+    "id": "48",
+    "name": "Atlas",
+    "description": "Full Name: Erik Josten, Publisher: Goliath",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/878.jpg"
+  },
+  {
+    "id": "49",
+    "name": "Atlas",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10838.jpg"
+  },
+  {
+    "id": "50",
+    "name": "Atom",
+    "description": "Full Name: Albert Pratt, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/934.jpg"
+  },
+  {
+    "id": "51",
+    "name": "Atom",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1379.jpg"
+  },
+  {
+    "id": "52",
+    "name": "Atom Girl",
+    "description": "Full Name: Salu Digby, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1180.jpg"
+  },
+  {
+    "id": "53",
+    "name": "Atom II",
+    "description": "Full Name: Ray Palmer, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/938.jpg"
+  },
+  {
+    "id": "54",
+    "name": "Atom III",
+    "description": "Full Name: Adam Cray, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/939.jpg"
+  },
+  {
+    "id": "55",
+    "name": "Atom IV",
+    "description": "Full Name: Ryan Choi, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/940.jpg"
+  },
+  {
+    "id": "56",
+    "name": "Aurora",
+    "description": "Full Name: Jeanne-Marie Beaubier, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1289.jpg"
+  },
+  {
+    "id": "57",
+    "name": "Azazel",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1481.jpg"
+  },
+  {
+    "id": "58",
+    "name": "Azrael",
+    "description": "Full Name: Michael Washington Lane, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1532.jpg"
+  },
+  {
+    "id": "59",
+    "name": "Aztar",
+    "description": "Full Name: Aztar, Publisher: Spectre",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1012.jpg"
+  },
+  {
+    "id": "60",
+    "name": "Bane",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/637.jpg"
+  },
+  {
+    "id": "61",
+    "name": "Banshee",
+    "description": "Full Name: Sean Cassidy, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/26.jpg"
+  },
+  {
+    "id": "62",
+    "name": "Bantam",
+    "description": "Full Name: Roberto Velasquez, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/229.jpg"
+  },
+  {
+    "id": "63",
+    "name": "Batgirl",
+    "description": "Full Name: Barbara Gordon, Publisher: Oracle",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1111.jpg"
+  },
+  {
+    "id": "64",
+    "name": "Batgirl",
+    "description": "Full Name: Mary Elizabeth Kane, Publisher: Hawkfire",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/638.jpg"
+  },
+  {
+    "id": "65",
+    "name": "Batgirl III",
+    "description": "Full Name: Helena Rosa Bertinelli, Publisher: Huntress",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1112.jpg"
+  },
+  {
+    "id": "66",
+    "name": "Batgirl IV",
+    "description": "Full Name: Cassandra Cain, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1113.jpg"
+  },
+  {
+    "id": "67",
+    "name": "Batgirl V",
+    "description": "Full Name: Charlotte Gage-Radcliffe, Publisher: Misfit",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1115.jpg"
+  },
+  {
+    "id": "68",
+    "name": "Batgirl VI",
+    "description": "Full Name: Stephanie Brown, Publisher: Spoiler",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1398.jpg"
+  },
+  {
+    "id": "69",
+    "name": "Batman",
+    "description": "Full Name: Terry McGinnis, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10441.jpg"
+  },
+  {
+    "id": "70",
+    "name": "Batman",
+    "description": "Full Name: Bruce Wayne, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+  },
+  {
+    "id": "71",
+    "name": "Batman II",
+    "description": "Full Name: Dick Grayson, Publisher: Nightwing",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1496.jpg"
+  },
+  {
+    "id": "72",
+    "name": "Battlestar",
+    "description": "Full Name: Lemar Hoskins, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/231.jpg"
+  },
+  {
+    "id": "73",
+    "name": "Batwoman V",
+    "description": "Full Name: Katherine Rebecca Kane, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10234.jpg"
+  },
+  {
+    "id": "74",
+    "name": "Beak",
+    "description": "Full Name: Barnell Bohusk, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/232.jpg"
+  },
+  {
+    "id": "75",
+    "name": "Beast",
+    "description": "Full Name: Henry Philip McCoy, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/27.jpg"
+  },
+  {
+    "id": "76",
+    "name": "Beast Boy",
+    "description": "Full Name: Garfield Mark Logan, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/640.jpg"
+  },
+  {
+    "id": "77",
+    "name": "Beetle",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1122.jpg"
+  },
+  {
+    "id": "78",
+    "name": "Ben 10",
+    "description": "Full Name: Benjamin Kirby Tennyson, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1365.jpg"
+  },
+  {
+    "id": "79",
+    "name": "Beta Ray Bill",
+    "description": "Full Name: Beta Ray Bill (translation of his Korbinite name), Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/28.jpg"
+  },
+  {
+    "id": "80",
+    "name": "Beyonder",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1293.jpg"
+  },
+  {
+    "id": "81",
+    "name": "Big Barda",
+    "description": "Full Name: Barda Free, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1169.jpg"
+  },
+  {
+    "id": "82",
+    "name": "Big Daddy",
+    "description": "Full Name: Damon Macready, Publisher: Icon Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1338.jpg"
+  },
+  {
+    "id": "83",
+    "name": "Big Man",
+    "description": "Full Name: Frederick Foswell, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1038.jpg"
+  },
+  {
+    "id": "84",
+    "name": "Bill Harken",
+    "description": "Full Name: N/A, Publisher: SyFy",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1527.jpg"
+  },
+  {
+    "id": "85",
+    "name": "Billy Kincaid",
+    "description": "Full Name: Billy Kincaid, Publisher: Image Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1072.jpg"
+  },
+  {
+    "id": "86",
+    "name": "Binary",
+    "description": "Full Name: Carol Danvers, Publisher: Captain Marvel",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/30.jpg"
+  },
+  {
+    "id": "87",
+    "name": "Bionic Woman",
+    "description": "Full Name: Jamie Sommers, Publisher: Unknown",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10648.jpg"
+  },
+  {
+    "id": "88",
+    "name": "Bird-Brain",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/240.jpg"
+  },
+  {
+    "id": "89",
+    "name": "Bird-Man",
+    "description": "Full Name: Henry Hawk, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1503.jpg"
+  },
+  {
+    "id": "90",
+    "name": "Bird-Man II",
+    "description": "Full Name: Achille DiBacco, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1504.jpg"
+  },
+  {
+    "id": "91",
+    "name": "Birdman",
+    "description": "Full Name: Ray Randal, Publisher: Hanna-Barbera",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1506.jpg"
+  },
+  {
+    "id": "92",
+    "name": "Bishop",
+    "description": "Full Name: Lucas Bishop, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/31.jpg"
+  },
+  {
+    "id": "93",
+    "name": "Bizarro",
+    "description": "Full Name: Bizarro, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/642.jpg"
+  },
+  {
+    "id": "94",
+    "name": "Black Abbott",
+    "description": "Full Name: N/A, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1049.jpg"
+  },
+  {
+    "id": "95",
+    "name": "Black Adam",
+    "description": "Full Name: Teth-Adam, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/643.jpg"
+  },
+  {
+    "id": "96",
+    "name": "Black Bolt",
+    "description": "Full Name: Blackagar Boltagon, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/243.jpg"
+  },
+  {
+    "id": "97",
+    "name": "Black Canary",
+    "description": "Full Name: Laurel Lance, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/1005.jpg"
+  },
+  {
+    "id": "98",
+    "name": "Black Canary",
+    "description": "Full Name: Dinah Drake Lance, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/644.jpg"
+  },
+  {
+    "id": "99",
+    "name": "Black Cat",
+    "description": "Full Name: Felicia Hardy, Publisher: Marvel Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/32.jpg"
+  },
+  {
+    "id": "100",
+    "name": "Black Flash",
+    "description": "Full Name: N/A, Publisher: DC Comics",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/100/10831.jpg"
+  }
+]
+}
